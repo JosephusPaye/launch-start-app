@@ -1,7 +1,7 @@
 {
   "name": "@josephuspaye/launch-start-app",
   "version": "0.0.0",
-  "description": "Launch apps in the Start Menu from @josephuspaye/start-apps.",
+  "description": "Launch apps from the Start Menu retrieved by @josephuspaye/start-apps.",
   "main": "dist/main.js",
   "repository": "https://github.com/JosephusPaye/launch-start-app.git",
   "author": "Josephus Paye II",

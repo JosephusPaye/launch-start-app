@@ -1,6 +1,6 @@
 # launch-start-app
 
-> Launch Start Menu apps retrieved by [@josephuspaye/start-apps](https://github.com/JosephusPaye/start-apps).
+> Launch apps from the Start Menu retrieved by [@josephuspaye/start-apps](https://github.com/JosephusPaye/start-apps).
 
 This project is part of [#CreateWeekly](https://twitter.com/JosephusPaye/status/1214853295023411200), my attempt to create something new publicly every week in 2020.
 

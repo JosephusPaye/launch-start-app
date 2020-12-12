@@ -48,7 +48,7 @@ export async function launch(
 
   // Only classic apps can be run as admin, and we use PowerShell's
   // Start-Process with "-Verb RunAs" to do so
-  if (app.type === 'classic' && options?.runAsAdmin) {
+  if (options?.runAsAdmin && app.type === 'classic') {
     const args =
       app.startMenuLink || app.targetArguments.length === 0
         ? ''
